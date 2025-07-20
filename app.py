@@ -10,7 +10,7 @@ def home():
 def get_account():
     return jsonify({
         "account_id": "SIM123456",
-        "balance": 50470.65,
+        "balance": 54000.65,
         "equity": 50530.10,
         "liquidation_point": 2500,
         "realized_pnl": 1270.30,
